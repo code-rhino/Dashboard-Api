@@ -34,3 +34,4 @@ build/
 .mvn/**
 mvnw**
 appliction.properties
+.DS_Store
